@@ -5,3 +5,5 @@ debt = 360,000
 depression = 99999999
 understanding = .0001
 competence = .00005
+finished = false
+having_fun = true
