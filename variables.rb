@@ -21,3 +21,6 @@ if finished == true
 elsif finished == false
     puts "boooo"
 end
+
+#I learnd terminal points out syntax errors!
+#I also learned the second input for the same variable overrides the first!
